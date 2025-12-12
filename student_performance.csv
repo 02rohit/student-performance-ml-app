@@ -1,0 +1,501 @@
+gender,age,hours_studied,attendance,parent_education,math_score,reading_score,writing_score,final_grade,pass_fail,admission_status
+Male,19,1.45,89,Diploma,31,46,100,56,Pass,No
+Female,19,1.62,94,Diploma,51,59,91,65,Pass,No
+Male,15,2.26,81,Diploma,32,52,38,39,Fail,No
+Male,17,0.12,78,High School,50,20,82,50,Pass,No
+Male,16,1.93,100,Diploma,97,27,57,64,Pass,No
+Female,15,1.27,52,Post Graduate,39,51,86,56,Pass,No
+Male,16,1.96,89,Graduate,37,67,78,58,Pass,No
+Male,16,0.72,83,Post Graduate,79,23,88,64,Pass,No
+Male,17,5.34,89,High School,82,89,32,69,Pass,No
+Female,16,3.56,76,Post Graduate,25,38,66,41,Pass,No
+Male,16,4.07,62,Graduate,51,51,80,59,Pass,No
+Male,17,4.74,94,Post Graduate,62,28,50,48,Pass,No
+Male,16,2.99,82,High School,21,31,99,47,Pass,No
+Male,16,0.52,55,Diploma,79,30,41,52,Pass,No
+Female,16,3.22,73,Post Graduate,42,65,62,54,Pass,No
+Male,15,3.52,68,High School,50,35,86,56,Pass,No
+Female,15,4.47,65,High School,24,20,73,37,Fail,No
+Female,15,2.59,89,Graduate,53,82,29,54,Pass,No
+Female,17,0.77,77,Graduate,29,40,61,41,Pass,No
+Male,19,1.7,82,Post Graduate,21,49,83,48,Pass,No
+Female,16,2.18,97,Diploma,30,32,40,33,Fail,No
+Male,16,3.88,90,High School,69,53,99,73,Pass,Yes
+Female,17,3.42,62,Post Graduate,50,23,95,55,Pass,No
+Female,16,2.14,92,High School,75,47,85,69,Pass,No
+Female,15,5.92,94,High School,98,78,60,80,Pass,Yes
+Female,19,3.63,74,Diploma,92,46,43,63,Pass,No
+Female,18,1.42,91,Diploma,28,88,54,53,Pass,No
+Female,16,0.61,85,Post Graduate,40,44,75,51,Pass,No
+Female,15,0.92,76,Diploma,92,22,49,58,Pass,No
+Female,18,1.48,87,Diploma,47,87,76,67,Pass,No
+Male,19,0.96,56,Post Graduate,81,44,66,65,Pass,No
+Male,18,1.12,54,Diploma,26,39,54,38,Fail,No
+Female,15,1.71,92,Graduate,99,53,38,66,Pass,No
+Female,18,1.04,94,High School,35,45,27,35,Fail,No
+Female,17,5.38,100,High School,23,24,45,29,Fail,No
+Male,18,0.48,80,High School,23,80,90,60,Pass,No
+Female,16,3.15,72,High School,59,28,49,46,Pass,No
+Male,16,2.46,91,Post Graduate,36,69,26,42,Pass,No
+Male,17,5.89,59,High School,71,25,86,61,Pass,No
+Male,15,0.67,81,High School,71,79,84,77,Pass,Yes
+Male,16,2.39,92,High School,55,63,55,57,Pass,No
+Male,19,5.82,79,High School,57,30,44,45,Pass,No
+Female,16,5.19,88,Graduate,69,85,56,69,Pass,No
+Female,16,4.9,80,High School,82,66,20,58,Pass,No
+Female,15,1.55,67,Graduate,82,92,34,70,Pass,Yes
+Female,18,1.03,85,Post Graduate,81,22,56,55,Pass,No
+Female,16,4.01,51,Diploma,26,95,32,48,Pass,No
+Male,17,5.58,63,High School,46,49,27,41,Pass,No
+Female,18,3.34,62,Diploma,33,40,24,32,Fail,No
+Female,19,3.43,78,Diploma,90,47,79,73,Pass,Yes
+Male,15,1.68,61,Post Graduate,24,81,92,61,Pass,No
+Female,19,4.62,88,Diploma,74,52,20,51,Pass,No
+Male,18,1.12,51,Graduate,21,54,55,41,Pass,No
+Female,18,1.94,81,Diploma,81,71,54,69,Pass,No
+Male,18,2.55,62,Diploma,40,53,85,57,Pass,No
+Female,19,3.05,95,Diploma,98,60,82,81,Pass,Yes
+Female,18,1.45,76,High School,40,70,42,49,Pass,No
+Male,19,0.69,98,High School,29,66,28,39,Fail,No
+Male,18,3.66,90,Graduate,77,77,53,69,Pass,No
+Male,17,1.73,66,Graduate,58,94,65,70,Pass,Yes
+Male,18,3.49,89,High School,24,76,97,61,Pass,No
+Male,19,0.93,80,Graduate,84,42,23,53,Pass,No
+Male,16,2.89,83,High School,32,67,49,47,Pass,No
+Male,18,3.2,73,Post Graduate,72,41,94,69,Pass,No
+Male,16,0.31,94,Diploma,64,36,91,63,Pass,No
+Female,17,2.02,84,Diploma,51,88,22,53,Pass,No
+Female,15,0.81,97,Graduate,55,30,33,40,Pass,No
+Male,17,0.38,55,High School,100,34,79,73,Pass,Yes
+Female,18,5.94,68,High School,79,54,96,76,Pass,Yes
+Female,16,1.93,79,Graduate,30,52,64,46,Pass,No
+Female,16,4.86,56,High School,82,35,53,59,Pass,No
+Female,19,1.53,59,Post Graduate,40,53,64,51,Pass,No
+Male,16,4.09,90,Diploma,71,85,80,77,Pass,Yes
+Female,19,4.56,81,Graduate,74,59,35,57,Pass,No
+Male,15,3.57,83,Graduate,45,47,85,57,Pass,No
+Female,18,2.83,77,High School,87,66,59,72,Pass,Yes
+Female,19,2.47,64,Graduate,53,58,36,49,Pass,No
+Female,15,2.09,79,Post Graduate,71,89,53,71,Pass,Yes
+Male,16,5.58,86,High School,71,92,35,66,Pass,No
+Female,16,4.98,78,High School,48,39,79,54,Pass,No
+Male,15,5.79,71,High School,57,20,85,54,Pass,No
+Female,16,0.75,53,High School,61,91,85,77,Pass,Yes
+Male,15,4.39,69,Post Graduate,40,82,32,50,Pass,No
+Female,19,5.63,81,High School,61,86,75,72,Pass,Yes
+Male,19,1.09,85,Graduate,32,23,50,34,Fail,No
+Male,15,0.4,99,Post Graduate,83,77,53,72,Pass,Yes
+Female,19,4.45,53,Diploma,36,44,58,45,Pass,No
+Male,19,3.45,76,Diploma,28,66,86,56,Pass,No
+Female,19,5.05,66,Graduate,60,57,27,49,Pass,No
+Female,17,0.84,61,Graduate,20,34,97,47,Pass,No
+Female,18,4.77,71,Post Graduate,21,82,74,55,Pass,No
+Female,16,1.21,66,Diploma,79,40,46,57,Pass,No
+Female,17,0.98,59,Diploma,67,76,72,71,Pass,Yes
+Female,19,0.99,50,Diploma,48,72,58,58,Pass,No
+Female,15,4.89,71,Diploma,29,65,84,56,Pass,No
+Female,19,3.99,75,Diploma,77,33,36,51,Pass,No
+Female,18,3.14,67,High School,79,95,49,74,Pass,Yes
+Female,19,2.15,99,Graduate,40,36,72,48,Pass,No
+Female,15,5.26,63,High School,47,58,32,45,Pass,No
+Male,18,2.35,96,Diploma,94,28,40,58,Pass,No
+Male,19,4.9,78,Post Graduate,53,96,38,61,Pass,No
+Female,18,2.63,61,Post Graduate,27,98,72,61,Pass,No
+Female,16,2.26,85,Diploma,78,25,38,50,Pass,No
+Female,16,2.78,84,Diploma,91,42,76,71,Pass,Yes
+Female,19,1.81,61,Post Graduate,68,78,44,63,Pass,No
+Female,18,4.49,56,High School,98,65,50,73,Pass,Yes
+Female,15,3.02,78,High School,36,57,100,61,Pass,No
+Female,19,1.39,60,Diploma,79,33,74,63,Pass,No
+Female,16,5.4,82,High School,64,91,42,65,Pass,No
+Male,16,2.3,55,Post Graduate,88,81,51,74,Pass,Yes
+Female,19,3.26,96,High School,51,54,81,60,Pass,No
+Male,18,5.44,64,Diploma,63,38,93,64,Pass,No
+Female,16,3.75,81,Post Graduate,84,49,29,57,Pass,No
+Female,18,0.7,100,High School,27,97,91,67,Pass,No
+Male,16,5.64,60,Graduate,96,44,73,73,Pass,Yes
+Female,16,3.77,72,Post Graduate,91,59,71,75,Pass,Yes
+Male,17,2.01,75,Post Graduate,62,33,39,46,Pass,No
+Female,16,0.84,83,Graduate,20,45,51,36,Fail,No
+Female,15,4.76,95,Graduate,70,41,33,50,Pass,No
+Male,19,3.72,83,Post Graduate,43,67,69,58,Pass,No
+Female,19,3.2,78,Graduate,43,70,47,52,Pass,No
+Male,18,5.36,53,Diploma,36,22,72,42,Pass,No
+Female,16,4.73,66,Diploma,24,61,43,40,Pass,No
+Male,15,0.91,84,Diploma,39,38,98,56,Pass,No
+Male,18,1.87,62,Post Graduate,40,92,41,55,Pass,No
+Female,17,1.49,90,Graduate,77,47,49,59,Pass,No
+Female,18,4.46,88,Graduate,50,64,82,63,Pass,No
+Male,18,0.2,64,High School,30,90,23,45,Pass,No
+Female,16,3.42,78,High School,71,97,96,86,Pass,Yes
+Female,17,4.57,78,Graduate,34,82,78,61,Pass,No
+Female,18,5.26,60,Graduate,26,92,27,46,Pass,No
+Male,15,2.05,81,Graduate,47,38,31,39,Fail,No
+Male,15,4.93,51,Post Graduate,70,66,50,62,Pass,No
+Male,19,0.66,96,Graduate,77,33,97,69,Pass,No
+Male,17,5.08,63,High School,24,57,53,42,Pass,No
+Male,17,0.76,69,Post Graduate,24,72,94,59,Pass,No
+Male,19,2.38,71,Graduate,27,80,95,63,Pass,No
+Male,18,4.78,60,High School,83,55,68,70,Pass,Yes
+Male,17,0.9,76,Post Graduate,29,59,98,58,Pass,No
+Male,15,1.38,52,Graduate,57,100,76,75,Pass,Yes
+Female,15,4.33,66,Graduate,100,49,45,68,Pass,No
+Male,16,4.32,93,Graduate,27,28,37,30,Fail,No
+Female,17,3.85,77,Post Graduate,44,83,57,59,Pass,No
+Female,18,4.16,78,High School,92,52,100,82,Pass,Yes
+Female,19,3.26,70,High School,85,71,69,76,Pass,Yes
+Male,19,1.51,96,Diploma,98,33,27,57,Pass,No
+Male,18,2.07,65,Graduate,69,94,60,73,Pass,Yes
+Male,16,1.09,86,Diploma,86,72,25,63,Pass,No
+Male,19,5.45,69,Diploma,68,78,88,77,Pass,Yes
+Female,17,3.5,55,High School,55,97,63,70,Pass,Yes
+Male,16,2.41,68,Post Graduate,87,60,83,77,Pass,Yes
+Male,17,2.77,54,Post Graduate,97,87,48,79,Pass,Yes
+Male,15,5.68,52,High School,60,87,47,64,Pass,No
+Male,16,0.92,50,Post Graduate,81,27,30,49,Pass,No
+Male,19,3.52,87,Diploma,29,21,84,43,Pass,No
+Female,16,3.04,64,Graduate,40,60,38,45,Pass,No
+Male,16,3.67,83,High School,55,74,28,52,Pass,No
+Female,16,0.11,84,Graduate,31,35,46,36,Fail,No
+Male,16,5.23,98,Post Graduate,21,81,53,48,Pass,No
+Female,17,5.59,74,Graduate,32,67,63,51,Pass,No
+Male,15,3.39,73,Post Graduate,72,49,87,69,Pass,No
+Male,18,4.18,61,Post Graduate,51,31,34,39,Fail,No
+Female,16,5.53,67,Diploma,35,54,70,51,Pass,No
+Female,19,4.24,64,Post Graduate,51,30,32,39,Fail,No
+Female,16,0.92,93,Diploma,51,83,68,65,Pass,No
+Male,19,3.46,65,Diploma,30,69,89,59,Pass,No
+Female,17,3.64,76,Diploma,29,40,75,46,Pass,No
+Male,19,2.54,57,High School,34,88,95,68,Pass,No
+Male,18,4.42,95,High School,36,67,70,55,Pass,No
+Female,15,5.61,74,Post Graduate,59,39,56,52,Pass,No
+Female,19,5.55,66,Diploma,37,86,36,51,Pass,No
+Male,19,2.71,78,High School,74,63,77,71,Pass,Yes
+Male,15,0.68,57,Diploma,92,52,48,66,Pass,No
+Female,18,5.91,64,Graduate,44,92,52,60,Pass,No
+Female,16,5.03,76,Graduate,78,80,79,78,Pass,Yes
+Female,19,0.75,95,Graduate,97,28,74,69,Pass,No
+Male,15,5.53,99,Post Graduate,41,87,29,51,Pass,No
+Male,17,5.22,56,Diploma,49,54,66,55,Pass,No
+Male,15,3.11,52,Graduate,63,100,42,67,Pass,No
+Male,17,3.55,78,High School,51,84,40,57,Pass,No
+Male,18,2.39,93,Graduate,70,27,32,45,Pass,No
+Male,16,0.33,73,Graduate,65,64,52,60,Pass,No
+Female,15,2.01,52,Graduate,40,66,43,48,Pass,No
+Male,19,4.82,69,Post Graduate,51,59,30,47,Pass,No
+Male,18,0.03,95,High School,58,95,36,62,Pass,No
+Male,15,2.0,64,Diploma,31,73,87,60,Pass,No
+Female,19,2.39,74,High School,66,95,66,74,Pass,Yes
+Male,15,3.22,79,Diploma,37,65,44,47,Pass,No
+Male,17,5.52,63,Post Graduate,40,66,92,63,Pass,No
+Female,15,2.08,56,Post Graduate,32,34,40,35,Fail,No
+Male,15,2.08,66,Post Graduate,40,38,31,36,Fail,No
+Male,15,4.43,93,Post Graduate,27,45,56,41,Pass,No
+Male,18,2.71,69,Diploma,65,71,61,65,Pass,No
+Male,15,1.35,85,Graduate,26,41,36,33,Fail,No
+Male,19,2.71,58,Diploma,42,40,67,48,Pass,No
+Female,17,0.85,87,High School,94,70,47,72,Pass,Yes
+Female,17,1.06,97,Post Graduate,41,57,60,51,Pass,No
+Female,15,2.99,71,Post Graduate,41,39,66,47,Pass,No
+Male,18,2.51,51,High School,48,48,37,44,Pass,No
+Male,18,5.49,73,Diploma,32,70,97,62,Pass,No
+Male,19,2.17,57,Graduate,21,23,90,42,Pass,No
+Female,15,3.48,60,Graduate,48,74,32,51,Pass,No
+Male,17,3.79,62,High School,98,90,32,75,Pass,Yes
+Male,18,0.08,66,Graduate,71,47,50,57,Pass,No
+Female,15,3.98,57,Diploma,46,23,21,31,Fail,No
+Male,18,1.07,70,Diploma,69,41,35,50,Pass,No
+Female,18,5.77,67,High School,98,95,28,76,Pass,Yes
+Female,17,0.89,79,Diploma,42,64,92,63,Pass,No
+Female,16,2.49,67,Post Graduate,63,86,57,68,Pass,No
+Male,19,0.51,95,High School,96,85,94,92,Pass,Yes
+Male,19,5.98,96,Diploma,41,53,73,54,Pass,No
+Male,17,3.01,80,High School,62,74,75,69,Pass,No
+Male,18,3.57,87,Graduate,56,20,64,47,Pass,No
+Male,15,0.4,81,Diploma,80,91,53,75,Pass,Yes
+Male,18,4.5,60,Post Graduate,75,57,28,55,Pass,No
+Male,17,1.26,94,Diploma,22,25,27,24,Fail,No
+Female,19,5.39,74,High School,82,44,26,53,Pass,No
+Male,18,1.23,82,High School,38,36,55,42,Pass,No
+Female,19,1.14,87,Diploma,42,80,37,51,Pass,No
+Male,15,0.22,90,Post Graduate,48,31,22,35,Fail,No
+Male,19,2.83,57,Post Graduate,49,25,47,41,Pass,No
+Male,19,3.39,60,Post Graduate,58,46,89,63,Pass,No
+Female,16,0.39,71,High School,44,27,63,44,Pass,No
+Female,16,4.65,100,Diploma,27,84,40,48,Pass,No
+Female,16,2.72,73,Graduate,77,76,47,67,Pass,No
+Female,19,3.15,90,High School,35,59,73,53,Pass,No
+Male,17,2.64,66,Post Graduate,91,33,73,68,Pass,No
+Female,19,2.4,61,Diploma,20,54,84,49,Pass,No
+Male,17,3.36,95,Post Graduate,24,67,40,41,Pass,No
+Male,17,0.93,81,Graduate,22,75,32,40,Pass,No
+Female,16,1.09,64,Post Graduate,84,68,76,76,Pass,Yes
+Female,18,5.17,65,Post Graduate,23,32,68,39,Fail,No
+Female,15,5.68,71,Graduate,83,80,73,79,Pass,Yes
+Female,16,2.24,77,Diploma,29,68,29,40,Pass,No
+Female,16,1.62,69,High School,40,65,72,57,Pass,No
+Female,18,3.86,82,Diploma,65,81,63,69,Pass,No
+Female,15,2.45,59,Graduate,46,27,66,46,Pass,No
+Female,19,0.15,89,Post Graduate,85,62,72,74,Pass,Yes
+Male,19,0.94,81,Diploma,60,39,93,63,Pass,No
+Female,16,4.3,99,High School,32,58,65,49,Pass,No
+Female,15,3.95,82,Graduate,28,68,32,41,Pass,No
+Male,16,0.16,51,Diploma,55,83,56,63,Pass,No
+Female,17,1.33,82,High School,77,81,43,68,Pass,No
+Male,16,1.39,82,Graduate,73,73,21,57,Pass,No
+Male,16,4.03,90,High School,31,28,100,50,Pass,No
+Female,19,0.12,62,Graduate,100,56,33,66,Pass,No
+Male,19,0.62,79,Post Graduate,97,68,29,67,Pass,No
+Male,19,4.8,82,Diploma,33,60,54,47,Pass,No
+Male,17,1.07,62,High School,53,36,44,45,Pass,No
+Male,19,3.92,75,Graduate,72,40,22,47,Pass,No
+Female,15,1.43,71,High School,39,70,36,47,Pass,No
+Male,18,0.6,88,High School,94,78,31,70,Pass,Yes
+Female,15,1.46,51,Diploma,35,58,73,53,Pass,No
+Male,15,4.33,87,Post Graduate,89,74,43,70,Pass,Yes
+Male,19,5.13,88,High School,75,60,48,62,Pass,No
+Male,18,4.98,75,Graduate,77,58,62,66,Pass,No
+Male,18,2.38,95,Graduate,23,32,44,32,Fail,No
+Female,18,4.01,99,Post Graduate,23,83,79,57,Pass,No
+Female,17,1.23,64,Graduate,39,30,84,49,Pass,No
+Male,19,1.76,83,Post Graduate,29,38,47,37,Fail,No
+Male,18,5.38,91,Graduate,43,30,35,36,Fail,No
+Female,17,0.08,93,Diploma,45,96,66,66,Pass,No
+Male,16,0.51,98,High School,56,65,100,71,Pass,Yes
+Male,16,1.25,89,Diploma,73,64,77,71,Pass,Yes
+Male,17,0.16,60,High School,40,20,95,50,Pass,No
+Female,17,1.09,52,High School,93,59,46,68,Pass,No
+Female,19,3.5,55,High School,57,38,72,55,Pass,No
+Female,19,2.53,58,Diploma,65,95,61,72,Pass,Yes
+Male,16,5.36,55,High School,23,91,78,59,Pass,No
+Male,18,4.9,58,Diploma,79,91,66,78,Pass,Yes
+Female,16,2.05,88,Post Graduate,76,80,53,70,Pass,Yes
+Female,18,1.56,80,Graduate,64,31,56,51,Pass,No
+Female,18,2.28,81,Graduate,39,80,25,47,Pass,No
+Female,19,3.54,90,High School,36,52,26,37,Fail,No
+Male,15,1.61,99,Diploma,90,64,44,68,Pass,No
+Female,15,3.74,61,Graduate,23,88,52,51,Pass,No
+Male,17,2.46,57,Diploma,33,27,74,43,Pass,No
+Female,19,3.31,57,Diploma,22,44,77,45,Pass,No
+Male,18,2.62,99,High School,99,65,26,66,Pass,No
+Female,15,1.77,77,Graduate,77,49,76,68,Pass,No
+Female,18,5.69,69,High School,74,66,31,58,Pass,No
+Female,15,4.58,96,High School,23,68,35,40,Pass,No
+Female,15,0.84,56,Graduate,43,66,99,66,Pass,No
+Male,15,5.21,60,Graduate,53,37,62,50,Pass,No
+Female,19,2.92,69,Post Graduate,49,85,96,73,Pass,Yes
+Male,16,5.37,65,Post Graduate,38,87,26,49,Pass,No
+Male,18,4.8,53,Diploma,50,52,70,56,Pass,No
+Male,19,2.55,55,Graduate,79,55,92,75,Pass,Yes
+Male,19,0.13,71,Post Graduate,79,38,51,58,Pass,No
+Female,19,1.61,75,Diploma,38,47,94,57,Pass,No
+Male,19,3.25,52,Diploma,68,59,27,53,Pass,No
+Male,19,3.8,90,Diploma,82,95,91,88,Pass,Yes
+Male,17,1.55,91,Post Graduate,41,34,64,45,Pass,No
+Female,18,0.84,63,Graduate,43,60,78,58,Pass,No
+Female,19,5.01,60,High School,95,58,23,62,Pass,No
+Female,18,5.91,67,Diploma,49,21,86,51,Pass,No
+Female,17,3.15,61,Post Graduate,77,82,48,69,Pass,No
+Male,17,1.03,72,Post Graduate,50,48,48,48,Pass,No
+Male,18,1.63,61,High School,83,93,47,75,Pass,Yes
+Female,15,0.11,62,High School,38,85,96,69,Pass,No
+Male,16,5.49,74,Post Graduate,67,70,98,77,Pass,Yes
+Male,15,0.71,94,Graduate,64,94,63,72,Pass,Yes
+Male,15,3.46,100,High School,74,96,23,65,Pass,No
+Female,15,1.64,68,Post Graduate,74,29,28,46,Pass,No
+Female,19,3.33,95,High School,37,33,24,31,Fail,No
+Male,17,3.91,85,Graduate,82,70,75,76,Pass,Yes
+Female,15,4.98,94,Diploma,66,92,69,74,Pass,Yes
+Female,17,1.24,57,High School,94,58,94,83,Pass,Yes
+Female,18,0.07,78,Graduate,76,47,34,54,Pass,No
+Female,16,0.82,81,Post Graduate,64,22,51,47,Pass,No
+Female,18,5.4,100,High School,52,89,47,61,Pass,No
+Male,18,5.24,93,High School,36,46,41,40,Pass,No
+Female,19,3.58,67,Post Graduate,89,21,36,52,Pass,No
+Male,16,3.6,55,Diploma,23,57,78,49,Pass,No
+Male,18,3.99,67,Post Graduate,39,22,90,49,Pass,No
+Female,18,1.05,68,High School,66,35,76,59,Pass,No
+Male,16,5.49,71,Post Graduate,34,59,45,44,Pass,No
+Male,16,2.51,86,Graduate,89,21,44,55,Pass,No
+Male,18,2.3,81,Post Graduate,66,100,29,65,Pass,No
+Female,16,3.11,90,High School,97,60,64,76,Pass,Yes
+Female,18,0.28,52,Post Graduate,94,31,30,55,Pass,No
+Male,18,1.0,77,Diploma,28,54,96,56,Pass,No
+Female,19,4.43,59,Post Graduate,35,84,72,60,Pass,No
+Female,15,0.5,100,Diploma,88,74,91,84,Pass,Yes
+Female,18,3.62,84,Graduate,80,64,87,77,Pass,Yes
+Female,17,1.47,78,Diploma,29,98,47,55,Pass,No
+Male,15,2.34,64,Post Graduate,69,81,94,80,Pass,Yes
+Male,15,1.73,82,High School,22,68,84,54,Pass,No
+Female,15,2.13,56,Diploma,96,44,68,72,Pass,Yes
+Female,19,4.31,61,Graduate,89,42,66,68,Pass,No
+Male,18,1.78,98,Diploma,100,43,71,74,Pass,Yes
+Male,19,3.4,79,Diploma,70,57,73,67,Pass,No
+Female,18,2.86,70,Diploma,38,47,79,53,Pass,No
+Male,19,3.98,80,Graduate,61,40,76,59,Pass,No
+Female,19,5.62,73,Post Graduate,54,73,66,63,Pass,No
+Female,17,4.4,69,Diploma,65,37,50,52,Pass,No
+Male,19,1.29,86,Diploma,45,55,65,54,Pass,No
+Male,16,0.19,53,High School,88,64,45,67,Pass,No
+Female,17,1.57,77,Graduate,83,92,24,68,Pass,No
+Female,19,3.57,93,Diploma,56,72,71,65,Pass,No
+Male,15,0.31,69,Graduate,68,49,94,70,Pass,Yes
+Female,16,2.98,73,Diploma,40,79,73,61,Pass,No
+Male,16,3.58,99,Post Graduate,93,51,52,68,Pass,No
+Female,16,2.01,98,Post Graduate,83,86,69,79,Pass,Yes
+Male,17,4.63,100,Diploma,24,86,57,52,Pass,No
+Male,19,0.64,81,Post Graduate,89,47,46,63,Pass,No
+Male,19,0.45,90,Diploma,23,63,34,38,Fail,No
+Female,15,4.37,85,Post Graduate,58,98,80,76,Pass,Yes
+Female,15,2.97,83,High School,54,60,40,51,Pass,No
+Male,16,4.13,85,High School,20,82,65,52,Pass,No
+Female,15,2.61,51,High School,43,42,88,56,Pass,No
+Male,17,1.48,64,Graduate,76,94,25,66,Pass,No
+Male,19,4.91,83,Graduate,89,67,57,72,Pass,Yes
+Female,16,4.8,85,High School,60,51,81,63,Pass,No
+Female,15,4.17,55,Graduate,73,76,81,76,Pass,Yes
+Male,17,1.63,88,Post Graduate,65,52,97,70,Pass,Yes
+Female,17,3.54,91,Diploma,79,43,93,72,Pass,Yes
+Female,15,2.17,100,Diploma,79,58,65,68,Pass,No
+Male,19,0.55,100,Diploma,76,53,32,55,Pass,No
+Male,15,5.5,61,High School,50,75,22,49,Pass,No
+Female,16,0.82,52,Graduate,43,47,25,38,Fail,No
+Male,15,5.7,94,Post Graduate,55,56,27,46,Pass,No
+Male,17,2.68,67,Post Graduate,49,26,63,46,Pass,No
+Female,15,1.11,89,High School,43,87,52,58,Pass,No
+Male,19,3.25,70,Post Graduate,49,56,100,66,Pass,No
+Male,18,5.24,64,Post Graduate,26,75,94,61,Pass,No
+Female,15,4.39,82,Post Graduate,54,84,96,75,Pass,Yes
+Female,19,4.84,84,Post Graduate,74,84,69,75,Pass,Yes
+Male,19,3.95,75,Graduate,33,66,30,42,Pass,No
+Male,17,4.15,57,Post Graduate,29,39,47,37,Fail,No
+Female,19,5.1,85,Diploma,99,38,89,77,Pass,Yes
+Female,19,1.5,97,High School,35,48,60,46,Pass,No
+Female,19,2.94,79,Graduate,73,93,35,67,Pass,No
+Female,19,1.33,72,Post Graduate,96,79,87,88,Pass,Yes
+Male,16,5.93,91,Graduate,89,37,67,66,Pass,No
+Female,16,5.66,93,Post Graduate,63,54,75,63,Pass,No
+Female,17,0.24,63,Diploma,92,62,83,80,Pass,Yes
+Male,15,4.23,63,High School,64,30,78,58,Pass,No
+Female,19,5.55,51,Post Graduate,75,68,81,74,Pass,Yes
+Male,15,1.08,86,Post Graduate,76,57,95,76,Pass,Yes
+Female,15,3.41,54,Post Graduate,40,83,30,49,Pass,No
+Female,17,5.49,87,Post Graduate,87,88,37,72,Pass,Yes
+Female,19,0.2,94,High School,69,27,38,47,Pass,No
+Male,19,4.18,90,High School,52,53,74,58,Pass,No
+Male,18,1.78,96,Diploma,26,67,45,44,Pass,No
+Female,15,5.55,63,High School,89,75,25,65,Pass,No
+Male,15,5.83,88,Post Graduate,34,95,23,49,Pass,No
+Male,16,5.67,74,Diploma,51,84,48,60,Pass,No
+Male,18,2.85,69,Diploma,94,50,78,76,Pass,Yes
+Male,16,5.17,51,Diploma,39,23,36,33,Fail,No
+Male,16,5.07,88,Post Graduate,34,69,62,52,Pass,No
+Male,16,1.91,55,Graduate,67,88,99,82,Pass,Yes
+Female,17,4.97,66,Post Graduate,90,49,85,76,Pass,Yes
+Female,17,0.22,74,High School,40,78,53,55,Pass,No
+Male,16,3.58,77,High School,61,86,27,58,Pass,No
+Female,18,1.38,51,Post Graduate,45,94,32,55,Pass,No
+Female,15,0.72,84,Post Graduate,33,64,27,40,Pass,No
+Female,18,0.46,86,Diploma,76,23,84,62,Pass,No
+Female,19,4.18,54,Post Graduate,56,45,62,54,Pass,No
+Male,17,2.04,50,Diploma,77,46,58,62,Pass,No
+Female,15,4.35,89,High School,40,65,100,65,Pass,No
+Female,15,0.39,61,Diploma,88,83,78,83,Pass,Yes
+Male,19,1.89,85,Post Graduate,22,70,63,48,Pass,No
+Male,19,3.24,94,High School,56,69,28,51,Pass,No
+Female,16,4.74,72,Graduate,68,25,56,51,Pass,No
+Female,17,1.91,96,Diploma,38,78,93,66,Pass,No
+Female,17,3.76,80,High School,31,34,55,39,Fail,No
+Female,18,5.32,60,Diploma,80,49,47,60,Pass,No
+Female,16,3.7,59,High School,60,61,61,60,Pass,No
+Female,16,1.4,52,High School,52,56,62,56,Pass,No
+Male,16,0.15,63,Diploma,69,61,61,64,Pass,No
+Female,16,5.22,65,Graduate,87,54,85,76,Pass,Yes
+Female,17,0.13,59,High School,90,25,74,65,Pass,No
+Male,17,5.25,78,High School,52,87,91,74,Pass,Yes
+Male,16,3.17,59,High School,100,37,67,71,Pass,Yes
+Male,18,5.63,61,Graduate,43,92,41,57,Pass,No
+Male,15,4.79,79,Graduate,80,48,46,60,Pass,No
+Female,15,5.99,90,Post Graduate,80,96,86,86,Pass,Yes
+Female,18,2.1,50,Diploma,47,78,32,51,Pass,No
+Female,16,4.6,54,Graduate,77,66,64,69,Pass,No
+Female,17,2.41,69,Diploma,62,36,29,44,Pass,No
+Female,15,2.88,57,Post Graduate,60,41,28,44,Pass,No
+Female,19,3.77,92,Diploma,58,87,73,71,Pass,Yes
+Male,19,5.24,61,Graduate,68,88,46,67,Pass,No
+Female,18,5.9,50,Diploma,36,56,53,47,Pass,No
+Male,16,4.61,69,Graduate,89,68,20,62,Pass,No
+Male,15,2.51,77,Diploma,89,32,51,60,Pass,No
+Female,16,2.53,92,Graduate,84,53,90,76,Pass,Yes
+Male,15,4.43,86,Graduate,93,72,86,84,Pass,Yes
+Female,18,1.43,96,Diploma,24,70,39,42,Pass,No
+Male,18,0.66,86,Post Graduate,21,22,54,31,Fail,No
+Female,19,2.13,61,High School,41,61,97,63,Pass,No
+Male,16,1.72,86,Post Graduate,76,51,36,56,Pass,No
+Female,19,1.78,98,Diploma,85,70,37,66,Pass,No
+Female,16,1.4,98,Post Graduate,93,65,64,75,Pass,Yes
+Female,19,0.25,93,Graduate,35,40,72,47,Pass,No
+Female,17,0.11,77,High School,70,63,87,73,Pass,Yes
+Female,17,5.93,96,Diploma,58,30,84,57,Pass,No
+Male,17,2.57,64,Diploma,95,87,20,70,Pass,Yes
+Male,17,2.31,55,Diploma,59,20,77,52,Pass,No
+Male,15,4.08,93,High School,57,82,45,60,Pass,No
+Female,17,1.31,69,Graduate,79,43,39,56,Pass,No
+Male,18,5.7,99,Diploma,78,32,29,49,Pass,No
+Female,18,4.72,63,Post Graduate,29,30,78,44,Pass,No
+Female,15,0.54,51,Diploma,83,70,94,82,Pass,Yes
+Male,17,2.51,58,Diploma,82,36,60,61,Pass,No
+Male,17,5.27,86,Diploma,68,43,24,47,Pass,No
+Female,17,5.67,69,Diploma,83,38,84,69,Pass,No
+Male,19,2.8,75,Graduate,51,56,36,48,Pass,No
+Female,16,3.68,78,Post Graduate,26,27,41,30,Fail,No
+Female,19,1.0,50,Graduate,40,47,60,48,Pass,No
+Female,16,5.95,84,Post Graduate,39,24,87,48,Pass,No
+Female,17,1.39,55,Diploma,45,36,88,55,Pass,No
+Female,17,5.66,86,High School,87,55,30,60,Pass,No
+Male,19,3.9,54,Graduate,34,38,75,47,Pass,No
+Male,19,3.65,82,High School,98,83,70,85,Pass,Yes
+Female,16,3.08,98,Graduate,33,30,40,34,Fail,No
+Female,18,1.38,100,Diploma,46,73,95,68,Pass,No
+Male,16,1.06,63,Graduate,59,64,45,56,Pass,No
+Male,19,1.32,61,Diploma,77,66,38,62,Pass,No
+Female,19,1.12,91,Graduate,47,31,79,51,Pass,No
+Male,15,4.68,69,Diploma,45,40,90,57,Pass,No
+Female,19,2.1,99,Diploma,82,30,66,61,Pass,No
+Male,15,0.35,73,Post Graduate,85,24,90,68,Pass,No
+Female,18,5.81,92,Diploma,44,100,45,61,Pass,No
+Male,16,5.3,83,Post Graduate,22,75,59,49,Pass,No
+Female,16,5.57,74,Diploma,91,39,24,55,Pass,No
+Male,15,5.97,99,High School,63,60,40,55,Pass,No
+Male,16,1.04,78,Diploma,61,65,97,73,Pass,Yes
+Female,19,2.38,88,High School,25,31,23,26,Fail,No
+Male,17,4.55,80,High School,58,89,42,62,Pass,No
+Female,15,4.18,96,Diploma,71,36,34,49,Pass,No
+Male,16,0.92,92,High School,42,38,27,36,Fail,No
+Female,15,4.89,99,Post Graduate,69,45,60,59,Pass,No
+Male,15,1.35,72,Graduate,62,67,38,56,Pass,No
+Female,17,1.34,93,Diploma,38,71,65,56,Pass,No
+Male,19,3.22,87,High School,88,89,47,76,Pass,Yes
+Female,15,3.56,69,Diploma,70,74,87,76,Pass,Yes
+Male,16,3.48,72,Post Graduate,30,94,34,50,Pass,No
+Female,18,0.55,94,Diploma,31,52,56,44,Pass,No
+Female,15,5.26,65,Diploma,93,81,20,67,Pass,No
+Female,15,1.59,99,High School,27,42,86,49,Pass,No
+Male,17,0.78,91,Post Graduate,43,34,43,40,Pass,No
+Female,19,5.33,57,Graduate,60,46,46,51,Pass,No
+Male,18,5.73,99,Graduate,55,94,59,67,Pass,No
+Female,16,5.17,70,High School,91,83,82,85,Pass,Yes
+Male,18,4.86,50,Diploma,74,100,80,83,Pass,Yes
+Female,16,3.93,57,High School,28,70,55,48,Pass,No
+Male,19,3.31,78,High School,66,72,43,60,Pass,No
+Male,16,0.52,81,High School,34,97,43,55,Pass,No
+Female,17,2.45,87,Diploma,67,70,23,54,Pass,No
+Male,17,2.24,54,Post Graduate,61,66,86,70,Pass,Yes
+Male,17,1.56,96,High School,79,23,53,54,Pass,No
+Female,17,4.34,71,Diploma,89,26,76,66,Pass,No
+Male,18,2.98,96,Post Graduate,31,54,68,49,Pass,No
+Male,19,0.49,83,High School,21,67,72,50,Pass,No
+Male,16,1.32,50,Graduate,26,92,42,50,Pass,No
+Female,16,4.1,75,Post Graduate,99,91,88,93,Pass,Yes
+Male,17,0.46,92,High School,22,64,72,49,Pass,No
+Female,17,5.11,59,Post Graduate,22,100,81,63,Pass,No
